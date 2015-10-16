@@ -252,3 +252,13 @@ Request URL: /cakephp/ports
 Stack Trace:
 #0 /opt/lampp/htdocs/cakephp/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #1 {main}
+2015-10-16 10:10:25 Error: Fatal Error (4): syntax error, unexpected 'controller' (T_STRING) in [/opt/lampp/htdocs/cakephp/app/View/Posts/index.ctp, line 45]
+2015-10-16 10:10:25 Error: [FatalErrorException] syntax error, unexpected 'controller' (T_STRING)
+Request URL: /cakephp/posts
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/lib/Cake/Error/ErrorHandler.php(204): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/opt/lampp/htdo...', 45)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/opt/lampp/htdo...', 45, Array)
+#2 /opt/lampp/htdocs/cakephp/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/opt/lampp/htdo...', 45, Array)
+#3 /opt/lampp/htdocs/cakephp/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
