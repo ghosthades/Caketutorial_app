@@ -1,0 +1,236 @@
+2015-10-16 06:53:27 Error: [MissingControllerException] Controller class Post.indexController could not be found.
+Exception Attributes: array (
+  'class' => 'Post.indexController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp/post.index
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-16 06:53:32 Error: [MissingControllerException] Controller class PostController could not be found.
+Exception Attributes: array (
+  'class' => 'PostController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp/post
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-16 06:53:36 Error: [MissingControllerException] Controller class PorstController could not be found.
+Exception Attributes: array (
+  'class' => 'PorstController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp/porst
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-16 06:53:53 Error: [MissingControllerException] Controller class PortController could not be found.
+Exception Attributes: array (
+  'class' => 'PortController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp/Port
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-16 06:53:56 Error: [MissingControllerException] Controller class PortsController could not be found.
+Exception Attributes: array (
+  'class' => 'PortsController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp/Ports
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-16 06:54:02 Error: [MissingControllerException] Controller class PortsController could not be found.
+Exception Attributes: array (
+  'class' => 'PortsController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp/ports
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-16 06:54:06 Error: [MissingControllerException] Controller class PortController could not be found.
+Exception Attributes: array (
+  'class' => 'PortController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp/port
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-16 06:54:27 Error: [MissingControllerException] Controller class PostController could not be found.
+Exception Attributes: array (
+  'class' => 'PostController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp/post
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-16 06:56:18 Error: [MissingControllerException] Controller class PortsController could not be found.
+Exception Attributes: array (
+  'class' => 'PortsController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp/ports
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-16 06:56:34 Error: [MissingViewException] View file "/opt/lampp/htdocs/cakephp/app/View/Posts/index.ctp" is missing.
+Exception Attributes: array (
+  'file' => '/opt/lampp/htdocs/cakephp/app/View/Posts/index.ctp',
+)
+Request URL: /cakephp/posts
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/lib/Cake/View/View.php(468): View->_getViewFileName(NULL)
+#1 /opt/lampp/htdocs/cakephp/lib/Cake/Controller/Controller.php(954): View->render(NULL, NULL)
+#2 /opt/lampp/htdocs/cakephp/lib/Cake/Routing/Dispatcher.php(198): Controller->render()
+#3 /opt/lampp/htdocs/cakephp/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#4 /opt/lampp/htdocs/cakephp/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2015-10-16 06:57:59 Error: [MissingControllerException] Controller class PostController could not be found.
+Exception Attributes: array (
+  'class' => 'PostController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp/post
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-16 06:58:05 Error: [MissingViewException] View file "/opt/lampp/htdocs/cakephp/app/View/Posts/index.ctp" is missing.
+Exception Attributes: array (
+  'file' => '/opt/lampp/htdocs/cakephp/app/View/Posts/index.ctp',
+)
+Request URL: /cakephp/posts
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/lib/Cake/View/View.php(468): View->_getViewFileName(NULL)
+#1 /opt/lampp/htdocs/cakephp/lib/Cake/Controller/Controller.php(954): View->render(NULL, NULL)
+#2 /opt/lampp/htdocs/cakephp/lib/Cake/Routing/Dispatcher.php(198): Controller->render()
+#3 /opt/lampp/htdocs/cakephp/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#4 /opt/lampp/htdocs/cakephp/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2015-10-16 07:01:28 Error: Fatal Error (4): syntax error, unexpected 'post’' (T_STRING) in [/opt/lampp/htdocs/cakephp/app/Controller/PostsController.php, line 11]
+2015-10-16 07:01:28 Error: [FatalErrorException] syntax error, unexpected 'post’' (T_STRING)
+Request URL: /cakephp/posts
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/lib/Cake/Error/ErrorHandler.php(204): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/opt/lampp/htdo...', 11)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/opt/lampp/htdo...', 11, Array)
+#2 /opt/lampp/htdocs/cakephp/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/opt/lampp/htdo...', 11, Array)
+#3 /opt/lampp/htdocs/cakephp/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-10-16 07:03:58 Error: Fatal Error (4): syntax error, unexpected 'post’' (T_STRING) in [/opt/lampp/htdocs/cakephp/app/Controller/PostsController.php, line 9]
+2015-10-16 07:03:58 Error: [FatalErrorException] syntax error, unexpected 'post’' (T_STRING)
+Request URL: /cakephp/posts
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/lib/Cake/Error/ErrorHandler.php(204): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/opt/lampp/htdo...', 9)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/opt/lampp/htdo...', 9, Array)
+#2 /opt/lampp/htdocs/cakephp/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/opt/lampp/htdo...', 9, Array)
+#3 /opt/lampp/htdocs/cakephp/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-10-16 07:05:10 Error: Fatal Error (4): syntax error, unexpected 'post’' (T_STRING) in [/opt/lampp/htdocs/cakephp/app/Controller/PostsController.php, line 9]
+2015-10-16 07:05:10 Error: [FatalErrorException] syntax error, unexpected 'post’' (T_STRING)
+Request URL: /cakephp/posts
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/lib/Cake/Error/ErrorHandler.php(204): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/opt/lampp/htdo...', 9)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/opt/lampp/htdo...', 9, Array)
+#2 /opt/lampp/htdocs/cakephp/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/opt/lampp/htdo...', 9, Array)
+#3 /opt/lampp/htdocs/cakephp/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-10-16 07:05:12 Error: Fatal Error (4): syntax error, unexpected 'post’' (T_STRING) in [/opt/lampp/htdocs/cakephp/app/Controller/PostsController.php, line 9]
+2015-10-16 07:05:12 Error: [FatalErrorException] syntax error, unexpected 'post’' (T_STRING)
+Request URL: /cakephp/posts
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/lib/Cake/Error/ErrorHandler.php(204): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/opt/lampp/htdo...', 9)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/opt/lampp/htdo...', 9, Array)
+#2 /opt/lampp/htdocs/cakephp/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/opt/lampp/htdo...', 9, Array)
+#3 /opt/lampp/htdocs/cakephp/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-10-16 07:07:38 Error: [MissingViewException] View file "/opt/lampp/htdocs/cakephp/app/View/Posts/index.ctp" is missing.
+Exception Attributes: array (
+  'file' => '/opt/lampp/htdocs/cakephp/app/View/Posts/index.ctp',
+)
+Request URL: /cakephp/posts
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/lib/Cake/View/View.php(468): View->_getViewFileName(NULL)
+#1 /opt/lampp/htdocs/cakephp/lib/Cake/Controller/Controller.php(954): View->render(NULL, NULL)
+#2 /opt/lampp/htdocs/cakephp/lib/Cake/Routing/Dispatcher.php(198): Controller->render()
+#3 /opt/lampp/htdocs/cakephp/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#4 /opt/lampp/htdocs/cakephp/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2015-10-16 08:28:35 Error: Fatal Error (4): syntax error, unexpected 'public' (T_PUBLIC) in [/opt/lampp/htdocs/cakephp/app/Controller/PostsController.php, line 32]
+2015-10-16 08:28:35 Error: [FatalErrorException] syntax error, unexpected 'public' (T_PUBLIC)
+Request URL: /cakephp/posts
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/lib/Cake/Error/ErrorHandler.php(204): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/opt/lampp/htdo...', 32)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/opt/lampp/htdo...', 32, Array)
+#2 /opt/lampp/htdocs/cakephp/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/opt/lampp/htdo...', 32, Array)
+#3 /opt/lampp/htdocs/cakephp/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-10-16 08:29:55 Error: Fatal Error (4): syntax error, unexpected '?' in [/opt/lampp/htdocs/cakephp/app/Controller/PostsController.php, line 53]
+2015-10-16 08:29:55 Error: [FatalErrorException] syntax error, unexpected '?'
+Request URL: /cakephp/posts
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/lib/Cake/Error/ErrorHandler.php(204): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/opt/lampp/htdo...', 53)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/opt/lampp/htdo...', 53, Array)
+#2 /opt/lampp/htdocs/cakephp/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/opt/lampp/htdo...', 53, Array)
+#3 /opt/lampp/htdocs/cakephp/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-10-16 08:29:59 Error: Fatal Error (4): syntax error, unexpected '?' in [/opt/lampp/htdocs/cakephp/app/Controller/PostsController.php, line 53]
+2015-10-16 08:29:59 Error: [FatalErrorException] syntax error, unexpected '?'
+Request URL: /cakephp/posts
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/lib/Cake/Error/ErrorHandler.php(204): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/opt/lampp/htdo...', 53)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/opt/lampp/htdo...', 53, Array)
+#2 /opt/lampp/htdocs/cakephp/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/opt/lampp/htdo...', 53, Array)
+#3 /opt/lampp/htdocs/cakephp/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-10-16 09:13:55 Error: Fatal Error (4): syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in [/opt/lampp/htdocs/cakephp/app/View/Posts/edit.ctp, line 5]
+2015-10-16 09:13:55 Error: [FatalErrorException] syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';'
+Request URL: /cakephp/posts/edit/1
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/lib/Cake/Error/ErrorHandler.php(204): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/opt/lampp/htdo...', 5)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/opt/lampp/htdo...', 5, Array)
+#2 /opt/lampp/htdocs/cakephp/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/opt/lampp/htdo...', 5, Array)
+#3 /opt/lampp/htdocs/cakephp/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-10-16 09:15:46 Error: Fatal Error (4): syntax error, unexpected 'public' (T_PUBLIC) in [/opt/lampp/htdocs/cakephp/app/Controller/PostsController.php, line 54]
+2015-10-16 09:15:46 Error: [FatalErrorException] syntax error, unexpected 'public' (T_PUBLIC)
+Request URL: /cakephp/posts
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/lib/Cake/Error/ErrorHandler.php(204): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/opt/lampp/htdo...', 54)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/opt/lampp/htdo...', 54, Array)
+#2 /opt/lampp/htdocs/cakephp/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/opt/lampp/htdo...', 54, Array)
+#3 /opt/lampp/htdocs/cakephp/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-10-16 09:16:35 Error: Fatal Error (4): syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in [/opt/lampp/htdocs/cakephp/app/View/Posts/edit.ctp, line 5]
+2015-10-16 09:16:35 Error: [FatalErrorException] syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';'
+Request URL: /cakephp/posts/edit/1
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/lib/Cake/Error/ErrorHandler.php(204): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/opt/lampp/htdo...', 5)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/opt/lampp/htdo...', 5, Array)
+#2 /opt/lampp/htdocs/cakephp/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/opt/lampp/htdo...', 5, Array)
+#3 /opt/lampp/htdocs/cakephp/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-10-16 09:16:45 Error: Fatal Error (4): syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in [/opt/lampp/htdocs/cakephp/app/View/Posts/edit.ctp, line 5]
+2015-10-16 09:16:45 Error: [FatalErrorException] syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';'
+Request URL: /cakephp/posts/edit/1
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/lib/Cake/Error/ErrorHandler.php(204): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/opt/lampp/htdo...', 5)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/opt/lampp/htdo...', 5, Array)
+#2 /opt/lampp/htdocs/cakephp/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/opt/lampp/htdo...', 5, Array)
+#3 /opt/lampp/htdocs/cakephp/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
